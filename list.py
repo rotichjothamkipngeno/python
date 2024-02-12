@@ -5,6 +5,8 @@ students = [ "Aj", ' May', "Abu" ,"Kiptoo"]
 
 students.append('jack')
 students.insert(0,'angel')
+students.insert(5,'jeff')
+
 
 students[2] = 'kip'
 print(students)

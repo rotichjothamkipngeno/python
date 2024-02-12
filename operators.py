@@ -13,7 +13,7 @@ total = math + physics + kisw + chem
 print(total/4)
 
 #input
-print( f" enter your marks")
+print( " enter your marks")
 m = int(input( "math") )
 ch = int(input( "chem"))
 total = m + ch
